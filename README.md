@@ -7,6 +7,7 @@
 
 Process strings, DNA sequences, logs, and tokens **10x faster** with hardware acceleration.
 
+
 ## Installation
 ```bash
 pip install alphabit
